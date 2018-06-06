@@ -1,4 +1,6 @@
 # Ethereum Playgrounds 🤸‍♀️
+![Ethereum Playgrounds](logo.png "Ethereum Playgrounds")  
+  
 A collection of ideas and thought experiments by [Tanooki Labs](http://tanookilabs.com/)
 
 ## Ideas
