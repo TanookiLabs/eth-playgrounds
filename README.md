@@ -15,8 +15,6 @@ This repo is a part of the Ethereum Playgrounds collective 🤸‍
 
 * 🤖 [Visit our Github](https://bit.ly/2Jgxk4E)  
 
-* 📩 [Subscribe to our newsletter](https://bit.ly/2IS9rkt)  
-
 <p><br/></p>
 
 ## License
